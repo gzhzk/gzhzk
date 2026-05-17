@@ -14,14 +14,11 @@
 
 ## 🛠 Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="22"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" height="22"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" height="22"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" height="22"/>
-  <img src="https://img.shields.io/badge/Claude-Amazon%20Bedrock?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" height="22"/>
-  <img src="https://img.shields.io/badge/Hermes%20Agent-NousResearch?style=flat-square&logoColor=white" alt="Hermes" height="22"/>
-</p>
+Python · PyTorch · Linux · SQL
+
+## 🔧 Tools
+
+Claude Code · Hermes Agent · Docker
 
 ## 🚀 My Philosophy
 
