@@ -19,12 +19,15 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" height="22"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" height="22"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" height="22"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="22"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" height="22"/>
 </p>
 
 ## 🔧 Tools
 
 <p>
   <img src="https://img.shields.io/badge/Claude%20Code-Amazon%20Bedrock?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" height="22"/>
+  <img src="https://img.shields.io/badge/Codex-OpenAI?style=flat-square&logo=openai&logoColor=white" alt="Codex" height="22"/>
   <img src="https://img.shields.io/badge/Hermes%20Agent-NousResearch?style=flat-square&logoColor=white" alt="Hermes" height="22"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="22"/>
 </p>
