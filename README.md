@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/Codex-OpenAI?style=flat-square&logo=openai&logoColor=white" alt="Codex" height="22"/>
   <img src="https://img.shields.io/badge/Hermes%20Agent-NousResearch?style=flat-square&logoColor=white" alt="Hermes" height="22"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="22"/>
+  <img src="https://img.shields.io/badge/W%26B-FFB000?style=flat-square&logo=weightsandbiases&logoColor=white" alt="Weights & Biases" height="22"/>
 </p>
 
 ## 🚀 My Philosophy
