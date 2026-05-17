@@ -44,7 +44,10 @@
 
 ## 📊 GitHub Stats
 
-*Stats widget is temporarily unavailable — stay tuned.*
+[![GitHub Stats](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gzhzk&query=$.followers&label=Followers&color=blue&logo=github&style=flat-square)](https://github.com/gzhzk)
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gzhzk&query=$.public_repos&label=Repos&color=green&logo=github&style=flat-square)](https://github.com/gzhzk?tab=repositories)
+
+*Auto-generated stats coming soon — stay tuned.*
 
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gzhzk&theme=transparent&hide_border=false&hide=prs,issues,contribs)
