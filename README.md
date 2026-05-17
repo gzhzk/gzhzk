@@ -1,10 +1,10 @@
 # Hi, I'm Zekai Huang 👋
 
+华南理工大学（South China University of Technology）| 智能科学与技术专业 | 2028届
+
 *「不诱于誉，不恐于诽，率道而行，端然正己。」——DeepSeek V4*
 
 **On the way to AGI, Ideate, Create, Monetize.**
-
-华南理工大学（South China University of Technology）| 智能科学与技术专业 | 2028届
 
 ## 🔭 What's Next
 
