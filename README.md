@@ -44,6 +44,10 @@
 
 ## 📊 GitHub Stats
 
+*Stats widget is temporarily unavailable — stay tuned.*
+
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gzhzk&theme=transparent&hide_border=false&hide=prs,issues,contribs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gzhzk&theme=transparent&hide_border=false&layout=compact)
+-->
 
