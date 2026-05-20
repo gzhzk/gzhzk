@@ -54,8 +54,3 @@
 
 - 博客：[gzhzk.github.io](https://gzhzk.github.io)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gzhzk&theme=transparent&hide_border=false&hide=prs,issues,contribs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=gzhzk&theme=transparent&hide_border=false&layout=compact)
-
