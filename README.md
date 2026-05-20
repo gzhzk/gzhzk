@@ -20,19 +20,19 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" height="22"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" height="22"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="22"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" height="22"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" height="22"/>
 </p>
 
 ## 🔧 Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Claude_Code-555?logo=claude" alt="Claude Code" height="22"/>
-  <img src="https://img.shields.io/badge/Codex-OpenAI-74AA9C?logo=openai" alt="Codex" height="22"/>
+  <img src="https://img.shields.io/badge/Claude_Code-555?style=flat-square&logo=claude" alt="Claude Code" height="22"/>
+  <img src="https://img.shields.io/badge/Codex-OpenAI-74AA9C?style=flat-square&logo=openai" alt="Codex" height="22"/>
   <img src="https://img.shields.io/badge/Hermes%20Agent-NousResearch-FFD700?style=flat-square&logoColor=white" alt="Hermes" height="22"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="22"/>
   <img src="https://img.shields.io/badge/W%26B-FFB000?style=flat-square&logo=weightsandbiases&logoColor=white" alt="Weights & Biases" height="22"/>
-  <img src="https://img.shields.io/badge/Jupyter-555?logo=jupyter" alt="Jupyter" height="22"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-555?style=flat-square&logo=huggingface" alt="Hugging Face" height="22"/>
+  <img src="https://img.shields.io/badge/Jupyter-555?style=flat-square&logo=jupyter" alt="Jupyter" height="22"/>
 </p>
 
 ## 🚀 My Philosophy
