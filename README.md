@@ -27,11 +27,12 @@
 ## 🔧 Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Claude%20Code-Amazon%20Bedrock?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" height="22"/>
-  <img src="https://img.shields.io/badge/Codex-OpenAI?style=flat-square&logo=openai&logoColor=white" alt="Codex" height="22"/>
-  <img src="https://img.shields.io/badge/Hermes%20Agent-NousResearch?style=flat-square&logoColor=white" alt="Hermes" height="22"/>
+  <img src="https://img.shields.io/badge/Claude_Code-555?logo=claude" alt="Claude Code" height="22"/>
+  <img src="https://img.shields.io/badge/Codex-OpenAI-74AA9C?logo=openai" alt="Codex" height="22"/>
+  <img src="https://img.shields.io/badge/Hermes%20Agent-NousResearch-FFD700?style=flat-square&logoColor=white" alt="Hermes" height="22"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="22"/>
   <img src="https://img.shields.io/badge/W%26B-FFB000?style=flat-square&logo=weightsandbiases&logoColor=white" alt="Weights & Biases" height="22"/>
+  <img src="https://img.shields.io/badge/Jupyter-555?logo=jupyter" alt="Jupyter" height="22"/>
 </p>
 
 ## 🚀 My Philosophy
