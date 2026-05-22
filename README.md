@@ -53,4 +53,5 @@
 ## 📫 Find Me
 
 - 博客：[gzhzk.github.io](https://gzhzk.github.io)
+- LinkedIn：[黄泽楷](https://www.linkedin.com/in/%E6%B3%BD%E6%A5%B7-%E9%BB%84-958080404)
 
