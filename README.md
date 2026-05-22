@@ -4,7 +4,7 @@
 
 **华南理工大学（South China University of Technology）| 智能科学与技术专业 | 2028届**
 
-**On the way to AGI, Ideate, Create, Monetize.**
+**On the path to AGI, Ideate, Create, Monetize.**
 
 ## 🔭 What's Next
 
