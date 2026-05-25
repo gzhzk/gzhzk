@@ -10,7 +10,7 @@
 
 目标：大厂 LLM 算法工程师，做真正能落地的 AI 系统。
 
-当前方向：post-train · agent harness · agent memory · 持续探索 post-training pipeline 和 RLHF。
+当前方向：post-train · agent harness · agent memory · RLHF
 
 ## 🛠 Tech Stack
 
@@ -29,26 +29,22 @@
   <img src="https://img.shields.io/badge/Claude_Code-555?style=flat-square&logo=claude" alt="Claude Code" height="22"/>
   <img src="https://img.shields.io/badge/Codex-OpenAI-74AA9C?style=flat-square&logo=openai" alt="Codex" height="22"/>
   <img src="https://img.shields.io/badge/Hermes%20Agent-NousResearch-FFD700?style=flat-square&logoColor=white" alt="Hermes" height="22"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="22"/>
+  <img src="https://img.shields.io/badge/LLaMA%20Factory-HiLabs-72A7C0?style=flat-square" alt="LLaMA Factory" height="22"/>
   <img src="https://img.shields.io/badge/W%26B-FFB000?style=flat-square&logo=weightsandbiases&logoColor=white" alt="Weights & Biases" height="22"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="22"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-555?style=flat-square&logo=huggingface" alt="Hugging Face" height="22"/>
   <img src="https://img.shields.io/badge/Jupyter-555?style=flat-square&logo=jupyter" alt="Jupyter" height="22"/>
 </p>
 
 ## 🚀 My Philosophy
 
-见过好的标准，才知道差距在哪；
-听见更高的山峰，才想一步步去攀登。
+有时候会觉得自己挺浮躁的——想学的东西太多，进展又太慢，看着同龄人发的论文和项目，心里会急。但急归急，路还是得一步一步走。
 
-在 AI 这条路上，我不是什么天才选手，
-只是一个碰巧对这一切着迷的普通大学生。
+我的现实是：一个 2028 届的本科生，没有 paper，没有正经实习，代码能力和算法思维都还在爬坡阶段。对 post-train、agent harness 等方向的认知，目前更多是“知道”而不是“精通”。
 
-看见厉害的项目会忍不住点进去看源码，
-碰到问题会一直琢磨直到想明白，
-写完代码会想再优化一遍还好不好看。
+看见好的代码就读，看见高的地方就爬，不找借口，不抄近道。日拱一卒，功不唐捐——这是我相信的一句话。
 
-没有捷径，就是慢慢学、慢慢写、慢慢熬。
-日拱一卒，功不唐捐。
+我一直很想进大厂做 LLM 算法工程师，也想成为能做出有价值东西的人。AGI 还没来，ASI 更远，但我觉得这些事情值得投入自己的时间和精力去做。
 
 ## 📫 Find Me
 
