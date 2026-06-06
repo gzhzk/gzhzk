@@ -1,5 +1,7 @@
 # Hi, I'm Zekai Huang 👋
 
+English· [简体中文](README.zh-CN.md)
+
 ***「Not swayed by praise, not shaken by blame; walk the path, keep myself upright.」—— DeepSeek V4***
 
 **South China University of Technology | Intelligent Science and Technology | Class of 2028**
