@@ -1,16 +1,16 @@
 # Hi, I'm Zekai Huang 👋
 
-***「不诱于誉，不恐于诽，率道而行，端然正己。」——DeepSeek V4***
+***「Not swayed by praise, not shaken by blame; walk the path, keep myself upright.」—— DeepSeek V4***
 
-**华南理工大学（South China University of Technology）| 智能科学与技术专业 | 2028届**
+**South China University of Technology | Intelligent Science and Technology | Class of 2028**
 
 **On the path to AGI, Ideate, Create, Monetize.**
 
 ## 🔭 What's Next
 
-目标：大厂 LLM 算法工程师，做真正能落地的 AI 系统。
+Goal: become an LLM algorithm engineer at a major tech company, building AI systems that actually ship.
 
-当前方向：Post Train · Agent Harness · Agent Memory · RLHF
+Currently working on: Post-Training · Agent Harness · Agent Memory · RLHF
 
 ## 🛠 Tech Stack
 
@@ -38,17 +38,17 @@
 
 ## 🚀 My Philosophy
 
-有时候会觉得自己挺浮躁的。想学的东西太多，进展又慢；看着同龄人发顶会、做项目、拿 offer，心里难免会急。但急归急，路还是得一步一步走。
+I get impatient sometimes. There's so much I want to learn, and progress is slow; watching peers publish at top venues, ship projects, and land offers can be unsettling. But the path still has to be walked one step at a time.
 
-我的现实很普通：一个 2028 届本科生，没有 paper，没有正经实习，代码能力和算法思维都还在爬坡。对 post train、agent harness 这些方向，现在更多是“知道一点、正在补”，远谈不上精通。
+My situation is pretty ordinary: an undergrad graduating in 2028, no papers, no proper internship, still climbing in both coding and algorithm fundamentals. On post-training, agent harnesses, and the like, I mostly "know a little and am filling in the gaps" — nowhere near proficient.
 
-不过我也慢慢发现，自己有一种还挺想保留下来的思考习惯：喜欢把看似不相干的模块放在一起想。比如后训练、Agent 执行、记忆、评测、工具调用，单独看像是不同问题，放到一个系统里时，偶尔会冒出一些“胡思乱想”。它们不一定马上正确，也不一定马上有用，我通常先记下来，有时间就再拆成小实验，用代码和指标去验证。
+That said, I've slowly noticed a habit of thought I'd like to keep: I like putting seemingly unrelated pieces together. Post-training, agent execution, memory, evaluation, tool use — each looks like a different problem on its own, but when you put them into one system, odd little "what-ifs" sometimes surface. They aren't necessarily right, and they aren't necessarily useful right away, so I usually jot them down first, then break them into small experiments when I have time, and check them with code and metrics.
 
-看见好的代码就读，看见高的地方就爬。不找借口，不抄近道。日拱一卒，功不唐捐。试一试吧，总会有收获。
+I read good code when I find it, and I climb when I see higher ground. No excuses, no shortcuts. A small step every day, and the work adds up. Give it a try — something will come of it.
 
-我还是很想进大厂做 LLM 算法工程师，也想慢慢成为一个能做出有价值东西的人。AGI 还没来，ASI 更远，可这些问题本身就足够吸引我，值得把时间和精力投进去。
+I still want to become an LLM algorithm engineer at a major company, and to slowly grow into someone who can build things that matter. AGI hasn't arrived yet, and ASI is further still — but the questions themselves are interesting enough to be worth the time and effort.
 
 ## 📫 Find Me
 
-- 博客：[gzhzk.github.io](https://gzhzk.github.io)
-- LinkedIn：[黄泽楷](https://www.linkedin.com/in/%E6%B3%BD%E6%A5%B7-%E9%BB%84-958080404)
+- Blog: [gzhzk.github.io](https://gzhzk.github.io)
+- LinkedIn: [Zekai Huang](https://www.linkedin.com/in/zekai-huang-958080404/)
