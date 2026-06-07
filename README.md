@@ -40,15 +40,15 @@ Currently working on: Post-Training · Agent Harness · Agent Memory · RLHF
 
 ## 🚀 My Philosophy
 
-I get impatient sometimes. There's so much I want to learn, and progress is slow; watching peers publish at top venues, ship projects, and land offers can be unsettling. But the path still has to be walked one step at a time.
+Impatience comes up sometimes. There is so much to learn, and progress often falls short of expectations; watching peers publish papers, ship projects, and land offers can be unsettling. But impatience is one thing, and the path still has to be walked one step at a time.
 
-My situation is pretty ordinary: an undergrad graduating in 2028, no papers, no proper internship, still climbing in both coding and algorithm fundamentals. On post-training, agent harnesses, and the like, I mostly "know a little and am filling in the gaps" — nowhere near proficient.
+The reality is pretty ordinary: an undergraduate in the Class of 2028, less than a year into the LLM algorithm field, still climbing in both coding ability and algorithmic thinking. On post-training, agent harnesses, agent memory, and related directions, the current state is mostly "knowing a little and filling in the gaps" — nowhere near proficient.
 
-That said, I've slowly noticed a habit of thought I'd like to keep: I like putting seemingly unrelated pieces together. Post-training, agent execution, memory, evaluation, tool use — each looks like a different problem on its own, but when you put them into one system, odd little "what-ifs" sometimes surface. They aren't necessarily right, and they aren't necessarily useful right away, so I usually jot them down first, then break them into small experiments when I have time, and check them with code and metrics.
+That said, there is one habit worth keeping: putting seemingly unrelated modules together and thinking about them as a system. Post-training, agent environments, memory, evaluation, tool use — each looks like a different problem on its own; once placed inside one system, odd little "what-ifs" sometimes surface. They are not necessarily right, and not necessarily useful right away, but I tend to write them down first, then break them into small experiments and verify them with code, data, and metrics.
 
 I read good code when I find it, and I climb when I see higher ground. No excuses, no shortcuts. A small step every day, and the work adds up. Give it a try — something will come of it.
 
-I still want to become an LLM algorithm engineer at a major company, and to slowly grow into someone who can build things that matter. AGI hasn't arrived yet, and ASI is further still — but the questions themselves are interesting enough to be worth the time and effort.
+I still want to become an LLM algorithm engineer at a major tech company, and to slowly grow into someone who can build valuable AI systems. AGI has not arrived yet, and ASI is further still — but the questions themselves are interesting enough to be worth the time and effort.
 
 ## 📫 Find Me
 
