@@ -12,7 +12,7 @@
 
 目标：大厂 LLM 算法工程师，做真正能落地的 AI 系统。
 
-当前方向：Post Train · Agent Harness · Agent Memory · RLHF
+当前方向：Post Train · Agent Harness · Reasoning · RLHF
 
 ## 🛠 Tech Stack
 

@@ -12,7 +12,7 @@ English· [简体中文](README.zh-CN.md)
 
 Goal: become an LLM algorithm engineer at a major tech company, building AI systems that actually ship.
 
-Currently working on: Post-Training · Agent Harness · Agent Memory · RLHF
+Currently working on: Post-Training · Agent Harness · Reasoning · RLHF
 
 ## 🛠 Tech Stack
 
