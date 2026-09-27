@@ -26,7 +26,9 @@ I care about improvements in experiments and whether they translate into reliabl
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech & Tools
+
+**Tech Stack**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="22"/>
@@ -38,9 +40,7 @@ I care about improvements in experiments and whether they translate into reliabl
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" height="22"/>
 </p>
 
----
-
-## 🔧 Tools
+**Tools**
 
 <p>
   <img src="https://img.shields.io/badge/Claude_Code-555?style=flat-square&logo=claude" alt="Claude Code" height="22"/>
